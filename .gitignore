@@ -19,6 +19,7 @@
 .settings
 .tmproj
 *.esproj
+*.code-workspace
 *.sublime-project
 *.sublime-workspace
 nbproject
